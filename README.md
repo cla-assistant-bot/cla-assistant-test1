@@ -1,1 +1,1 @@
-# cla-assistant-test1..whitelisting feature..
+# cla-assistant-test1..whitelisting feature test ..
