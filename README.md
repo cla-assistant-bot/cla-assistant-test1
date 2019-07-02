@@ -1,1 +1,1 @@
-# cla-assistant-test1..whitelisting feature test in preview day 2.. 
+# cla-assistant-test1..whitelisting feature test in preview day 2.. ---
