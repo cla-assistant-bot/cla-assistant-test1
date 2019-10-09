@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "akshayib",
+      "name": "akshayib",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/51237873?v=4",
+      "profile": "https://github.com/akshayib",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "cla-assistant-test1",
+  "projectOwner": "cla-assistant-bot",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
