@@ -1,4 +1,2 @@
 
-
 # cla-assistant-test1
-
